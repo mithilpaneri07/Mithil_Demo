@@ -1,2 +1,2 @@
  # Mithil_Demo
-This is my first Git Repository <br> Author-Mithil Paneri
+This is my first Git Repository <br> Author-Mithilpaneri07
